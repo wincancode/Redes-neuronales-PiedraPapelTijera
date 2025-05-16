@@ -1,0 +1,15 @@
+Datasets
+Lib
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.png
+*.jpg
+*.jpeg
+*.keras
+*.h5
+*.rar
